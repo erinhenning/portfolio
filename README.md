@@ -1,2 +1,3 @@
-# portfolio
-Erin's data science project portfolio
+# Erin's Portfolio
+data science project portfolio
+
